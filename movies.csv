@@ -1,0 +1,111 @@
+Title,Genre,Rating,Popularity,Year
+The Shawshank Redemption,Drama,9.3,98,1994
+The Godfather,Crime,9.2,97,1972
+The Dark Knight,Action,9.0,99,2008
+Pulp Fiction,Crime,8.9,92,1994
+Forrest Gump,Drama,8.8,95,1994
+Inception,Sci-Fi,8.8,96,2010
+The Matrix,Sci-Fi,8.7,95,1999
+Fight Club,Drama,8.8,93,1999
+Interstellar,Sci-Fi,8.6,94,2014
+Gladiator,Action,8.5,90,2000
+The Prestige,Mystery,8.5,88,2006
+The Departed,Crime,8.5,89,2006
+Whiplash,Drama,8.5,87,2014
+The Lion King,Animation,8.5,94,1994
+Toy Story,Animation,8.3,92,1995
+Finding Nemo,Animation,8.1,90,2003
+Coco,Animation,8.4,89,2017
+Up,Animation,8.2,88,2009
+Inside Out,Animation,8.1,86,2015
+The Social Network,Drama,7.7,82,2010
+La La Land,Musical,8.0,85,2016
+The Wolf of Wall Street,Biography,8.2,88,2013
+Django Unchained,Western,8.4,87,2012
+The Revenant,Adventure,8.0,84,2015
+Mad Max: Fury Road,Action,8.1,86,2015
+Avatar,Sci-Fi,7.8,93,2009
+Titanic,Romance,7.8,95,1997
+Good Will Hunting,Drama,8.3,86,1997
+The Silence of the Lambs,Thriller,8.6,90,1991
+Se7en,Crime,8.6,89,1995
+The Green Mile,Drama,8.6,88,1999
+Saving Private Ryan,War,8.6,90,1998
+Jurassic Park,Adventure,8.1,92,1993
+The Avengers,Action,8.0,94,2012
+Avengers: Endgame,Action,8.4,96,2019
+Iron Man,Action,7.9,90,2008
+Captain America: Civil War,Action,7.8,88,2016
+Joker,Crime,8.4,91,2019
+The Truman Show,Drama,8.1,85,1998
+Memento,Mystery,8.4,84,2000
+The Big Short,Drama,7.8,80,2015
+Once Upon a Time in Hollywood,Comedy,7.6,82,2019
+The Irishman,Crime,7.8,80,2019
+1917,War,8.3,85,2019
+Dunkirk,War,7.9,84,2017
+Blade Runner 2049,Sci-Fi,8.0,83,2017
+The Fault in Our Stars,Romance,7.7,78,2014
+The Grand Budapest Hotel,Comedy,8.1,79,2014
+Sholay,Action,8.2,95,1975
+Dilwale Dulhania Le Jayenge,Romance,8.1,94,1995
+3 Idiots,Comedy,8.4,96,2009
+Dangal,Sport,8.4,95,2016
+PK,Comedy,8.1,90,2014
+Bajrangi Bhaijaan,Drama,8.0,92,2015
+Sultan,Sport,7.0,85,2016
+Munna Bhai M.B.B.S.,Comedy,8.1,88,2003
+Lage Raho Munna Bhai,Comedy,8.2,87,2006
+Taare Zameen Par,Drama,8.4,89,2007
+My Name Is Khan,Drama,8.0,86,2010
+Queen,Drama,8.2,87,2013
+Hera Pheri,Comedy,8.2,90,2000
+Drishyam,Thriller,8.2,86,2015
+Article 15,Crime,8.2,82,2019
+Badhaai Ho,Comedy,8.0,80,2018
+Stree,Horror,7.6,78,2018
+Tanhaji,Action,7.0,80,2020
+Sanju,Biography,7.1,79,2018
+Uri: The Surgical Strike,Action,7.4,83,2019
+Raanjhanaa,Romance,7.6,78,2013
+Kabir Singh,Romance,7.1,85,2019
+War,Action,6.9,86,2019
+Don,Action,8.0,85,2006
+Don 2,Action,7.2,82,2011
+Raazi,Thriller,7.8,80,2018
+Ek Tha Tiger,Action,6.8,81,2012
+Pathaan,Action,7.0,88,2023
+Jawan,Action,7.5,90,2023
+Gully Boy,Drama,8.0,84,2019
+Rockstar,Drama,7.6,80,2011
+Barfi!,Romance,8.1,82,2012
+Black,Drama,8.1,81,2005
+Swades,Drama,8.2,83,2004
+A Wednesday,Thriller,8.1,80,2008
+Special 26,Crime,7.8,79,2013
+Bhaag Milkha Bhaag,Biography,8.2,81,2013
+Kahaani,Thriller,8.1,80,2012
+Padmaavat,Drama,7.0,78,2018
+Kabhi Khushi Kabhie Gham,Drama,7.4,84,2001
+Kuch Kuch Hota Hai,Romance,7.6,85,1998
+Andaz Apna Apna,Comedy,7.9,83,1994
+Chak De! India,Sport,8.2,86,2007
+Good Newwz,Comedy,7.0,77,2019
+Fanaa,Romance,6.9,75,2006
+OMG: Oh My God!,Comedy,7.8,78,2012
+Dear Zindagi,Drama,7.1,74,2016
+Kal Ho Naa Ho,Drama,7.9,83,2003
+The Hobbit: An Unexpected Journey,Adventure,7.8,77,2012
+Harry Potter and the Sorcerer's Stone,Fantasy,7.6,85,2001
+Harry Potter and the Deathly Hallows: Part 2,Fantasy,8.1,87,2011
+The Lord of the Rings: The Fellowship of the Ring,Fantasy,8.8,92,2001
+The Lord of the Rings: The Return of the King,Fantasy,8.9,93,2003
+Goodfellas,Crime,8.7,86,1990
+The Pianist,Biography,8.5,81,2002
+Slumdog Millionaire,Drama,8.0,85,2008
+The King's Speech,Drama,8.0,80,2010
+No Country for Old Men,Crime,8.1,82,2007
+Spotlight,Drama,8.1,80,2015
+The Hateful Eight,Western,7.8,75,2015
+Placeholder Movie 1,Drama,6.5,61,2001
+Placeholder Movie 2,Drama,7.0,62,2002
